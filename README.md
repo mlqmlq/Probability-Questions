@@ -24,5 +24,15 @@
 
 * If I collected *n* coupons, what is the expectation of distinct coupon types?
 
-Randomly draw *N* straight lines over a circle so that the circle is cut into *m* pieces. What is the expectation of *m*?
+11. 500 ants are randomly put on a 1 foot string with uniform distribution. Each ant randomly moves toward one end of the string (equal probability) at a constant speed 1 foot/min until it falls off the string. When two ants collide heads on, they will both change directions. What is the expected time for all ants fall off the string?
+
+12. Two players bet on rolls of the total of two 6 face dice. Player A bets a sum of 12 comes first and player B bets two consecutive 7s will occur first. They keep rolling until one of them wins. What is the probability of A wins?
+
+13. Keep flipping a fair coin until you get either *HHH* or *THH*. What is the probability that you end up with *HHH*?
+
+14. Keep flipping a fair coin until you get either *TTH* or *HTT*. What is the probability that you end up with *TTH*?
+
+# Other
+
+1. Randomly draw *N* straight lines over a circle so that the circle is cut into *m* pieces. What is the expectation of *m*?
 
