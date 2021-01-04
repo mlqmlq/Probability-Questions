@@ -36,3 +36,7 @@
 
 1. Randomly draw *N* straight lines over a circle so that the circle is cut into *m* pieces. What is the expectation of *m*?
 
+2. Suppose a matrix satisfies <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf&space;A^3&space;=&space;\mathbf&space;O" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf&space;A^3&space;=&space;\mathbf&space;O" title="\mathbf A^3 = \mathbf O" /></a>. What is the maximum rank of that matrix?
+
+3. Randomly sample from <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal&space;N(0,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal&space;N(0,\sigma^2)" title="\mathcal N(0,\sigma^2)" /></a> with unknown variance. What is the point estimate and confidence interval of the variance?
+
