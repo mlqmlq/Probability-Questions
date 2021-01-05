@@ -40,3 +40,5 @@
 
 3. Randomly sample from <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal&space;N(0,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal&space;N(0,\sigma^2)" title="\mathcal N(0,\sigma^2)" /></a> with unknown variance. What is the point estimate and confidence interval of the variance?
 
+4. Person A has a 20-sided dice and person B has three 6-sided dice. They both roll their dice and whoever gets a bigger number/sum of numbers wins the game. Is it a fair game? Same game with one more player C who has a 20-sided dice. Is this new game fair? (all dice are fair; a 20-sided dice has number 1,2,…, 20 on each of its 20 sides)
+
