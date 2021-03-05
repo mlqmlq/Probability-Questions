@@ -38,7 +38,15 @@
 
 2. Suppose a matrix satisfies <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf&space;A^3&space;=&space;\mathbf&space;O" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf&space;A^3&space;=&space;\mathbf&space;O" title="\mathbf A^3 = \mathbf O" /></a>. What is the maximum rank of that matrix?
 
-3. Randomly sample from <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal&space;N(0,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal&space;N(0,\sigma^2)" title="\mathcal N(0,\sigma^2)" /></a> with unknown variance. What is the point estimate and confidence interval of the variance?
+3. Randomly draw one sample from <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal&space;N(0,\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal&space;N(0,\sigma^2)" title="\mathcal N(0,\sigma^2)" /></a> with unknown variance. What is the point estimate and confidence interval of the variance?
 
 4. Person A has a 20-sided dice and person B has three 6-sided dice. They both roll their dice and whoever gets a bigger number/sum of numbers wins the game. Is it a fair game? Same game with one more player C who has a 20-sided dice. Is this new game fair? (all dice are fair; a 20-sided dice has number 1,2,…, 20 on each of its 20 sides)
+
+5. What is the upper bound for the determinant of the correlation matrix?
+
+6. There is a fully connected graph with each edge has a weight *w*, i.i.d generated from an unknown distribution *F*. A pair *(a, b)* is called a good pair if their edge weight *w_{ab}* is the largest for all edges of *a* and *b*. What is the expected number of good pairs when there are *n* vertices?
+
+7. Throw 10 dice in a row. What is the probability that their sum is divisible by 6?
+
+8. Keep throwing a 6-sided dice until we get a 6. What is the expected number of tosses given the condition that all numbers in this trial is even? *(This is a very tricky question)*
 
