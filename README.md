@@ -50,3 +50,8 @@
 
 8. Keep throwing a 6-sided dice until we get a 6. What is the expected number of tosses given the condition that all numbers in this trial is even? *(This is a very tricky question)*
 
+9. *X* = sum{100 dice}, *Y* = sum{600 coin tosses}. What is P(X>Y)?
+
+10. Keep generating numbers from *U[0,1]* until the number you see is smaller than the previous number. What is the expected number of tosses?
+
+11. Suppose the height of people on the street are iid. In expectation what is the number of people sampled to observe a person's height higher than the first one?
