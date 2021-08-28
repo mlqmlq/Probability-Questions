@@ -55,3 +55,9 @@
 10. Keep generating numbers from *U[0,1]* until the number you see is smaller than the previous number. What is the expected number of tosses?
 
 11. Suppose the height of people on the street are iid. In expectation what is the number of people sampled to observe a person's height higher than the first one?
+
+# Questions in Stotchastic Processes -- Sheldon Ross
+1. What is the probability distribution of the numbers of flip needed for the first time the number of heads equals to the number of tails for a coin with probability `p` to be head?
+
+2. 
+![Screen Shot 2021-08-28 at 10 09 34 AM](https://user-images.githubusercontent.com/30185072/131222489-4ef19d15-dd4f-4efa-aa65-8d297c93692b.png)
